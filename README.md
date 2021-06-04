@@ -4,7 +4,7 @@
 [![WeChat](https://img.shields.io/badge/WeChat-dancerphil-%2307c160)](#)
 [![Email](https://img.shields.io/badge/Email-dancerphil1994%40gmail.com-lightgray)](mailto:dancerphil1994@gmail.com)
 
-Hi，我是张振衣，从 2015 年开始，我就从事前端开发工作，现在供职于百度，致力于百度内部的代码服务。
+Hi，我是张振衣，从 2015 年开始从事前端开发工作，现在供职于百度，致力于百度内部的代码服务。
 
 我很喜欢 Open Source 的氛围，曾经为 [antd](https://github.com/ant-design/ant-design) 升级 UNSAFE 生命周期贡献过代码，为 [@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react) 贡献过 useReducer 的相关的类型推导。
 

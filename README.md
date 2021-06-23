@@ -20,4 +20,4 @@ Hi，我是张振衣，从 2015 年开始从事前端开发工作，现在供职
 
 <hr />
 
-[![dancerphil's GitHub stats](https://github-readme-stats.vercel.app/api?username=dancerphil)](https://github.com/anuraghazra/github-readme-stats)
+[![dancerphil's GitHub stats](https://github-readme-stats.vercel.app/api?username=dancerphil&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

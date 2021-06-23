@@ -17,3 +17,7 @@ Hi，我是张振衣，从 2015 年开始从事前端开发工作，现在供职
 - [react-router-template-link](https://github.com/dancerphil/react-router-template-link) - react-router 的封装，注重于 Link 的定义
 - [react-diff-view](https://github.com/otakustay/react-diff-view) - git diff 展示组件
 - [javascript 中文版](https://github.com/dancerphil/translate) - airbnb/javascript 的中文翻译
+
+<hr />
+
+[![dancerphil's GitHub stats](https://github-readme-stats.vercel.app/api?username=dancerphil)](https://github.com/anuraghazra/github-readme-stats)

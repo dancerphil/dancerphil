@@ -15,7 +15,7 @@ Hi，我是张振衣，从 2015 年开始从事前端开发工作，现在供职
 - [region-core](https://github.com/regionjs/region-core) - react 状态管理
 - [axios-interface](https://github.com/dancerphil/axios-interface) - axios 的封装，注重于接口的定义
 - [react-router-template-link](https://github.com/dancerphil/react-router-template-link) - react-router 的封装，注重于 Link 的定义
-- [react-diff-view](https://github.com/otakustay/react-diff-view) - git diff 展示组件
+- [panda-design](https://panda-design-team.github.io) - 一套基于 Ant Design 演变而来的设计规范
 - [javascript 中文版](https://github.com/dancerphil/translate) - airbnb/javascript 的中文翻译
 
 <hr />

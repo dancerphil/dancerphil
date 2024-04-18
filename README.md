@@ -15,7 +15,10 @@ Hi，我是张振衣，从 2015 年开始从事前端开发工作，现在供职
 - [region-core](https://github.com/regionjs/region-core) - react 状态管理
 - [axios-interface](https://github.com/dancerphil/axios-interface) - axios 的封装，注重于接口的定义，另有 [iframe-interface](https://github.com/dancerphil/iframe-interface)
 - [react-router-template-link](https://github.com/dancerphil/react-router-template-link) - react-router 的封装，注重于 Link 的定义
-- [@panda-design](https://panda-design-team.github.io) - 一套基于 Ant Design 演变而来的设计规范
+- [@panda-design](https://panda-design-team.github.io) - 一套基于 Ant Design 演变而来的设计规范，包括：
+  - @panda-design/components - 组件库
+  - @panda-design/router - 路由相关的组件解决方案：面包屑、侧边栏
+  - @panda-desitn/path-form - 大型表单解决方案
 - [@koopa-cli](https://github.com/dancerphil/koopa-cli) - 一些 cli 工具
 - [use-short-key](https://k83fb.csb.app/) - 一个基于 Keyboard Event 的快捷键注册方案
 - [javascript 中文版](https://github.com/dancerphil/translate) - airbnb/javascript 的中文翻译
